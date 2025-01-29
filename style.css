@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Marquis-regular';
+    src: url(./fonts/Marquis/Marquis\ Sans\ Regular.otf);
+}
+@font-face {
+    font-family: 'Marquis-bold';
+    src: url(./fonts/Marquis/Marquis\ Serif\ Bold.otf);
+}
+@font-face {
+    font-family: 'Marquis-italic';
+    src: url(./fonts/Marquis/Marquis\ Sans\ Italic.otf);
+}
+
+body{
+    font-family: 'Marquis-regular';
+    font-size: 1.5em;
+}
