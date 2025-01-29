@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Marquis Serif';
+    src: url('./Marquis%20Serif.otf') format('opentype'),
+         url('./Marquis%20Serif.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
