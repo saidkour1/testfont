@@ -1,14 +1,26 @@
 @font-face {
     font-family: 'Marquis-regular';
-    src: url(./fonts/Marquis/Marquis\ Sans\ Regular.otf);
+    src: url(./fonts/Marquis/Marquis\ Sans\ Regular.ttf);
 }
 @font-face {
     font-family: 'Marquis-bold';
-    src: url(./fonts/Marquis/Marquis\ Serif\ Bold.otf);
+    src: url(./fonts/Marquis/Marquis\ Serif\ Bold.ttf);
 }
 @font-face {
     font-family: 'Marquis-italic';
-    src: url(./fonts/Marquis/Marquis\ Sans\ Italic.otf);
+    src: url(./fonts/Marquis/Marquis%20Sans%20Italic.ttf);
+}
+@font-face {
+    font-family: 'GillSans';
+    src: url(./fonts/GillSansStd.otf);
+}
+@font-face {
+    font-family: 'GillSans-light';
+    src: url(./fonts/GillSansStd-Light.otf);
+}
+@font-face {
+    font-family: 'Marcky-Regular';
+    src: url(./fonts/Marcky-Regular.otf);
 }
 
 body{
@@ -16,6 +28,6 @@ body{
     font-size: 1.5em;
 }
 p{
-    font-family: 'Marquis-italic';
+    font-family: 'Marcky-Regular';
    
 }
